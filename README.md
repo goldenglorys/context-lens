@@ -1,14 +1,14 @@
-### Context Lens: Bringing Clarity to Your Machine Learning Training Data
+# Context Lens: Bringing Clarity to Your ML Training Data
 
 **Why Context Lens?**
 
-If you've ever worked with machine learning training datasets, you know the struggle: endless lines of JSONL files, buried insights, and the constant feeling that your data is hiding something from you. It’s like trying to solve a puzzle with half the pieces missing—frustrating, time-consuming, and often, just plain confusing.
+If you've ever worked with ML training datasets, you know the struggle: endless lines of JSONL files, buried insights, and the constant feeling that your data is hiding something from you. It’s like trying to solve a puzzle with half the pieces missing—frustrating, time-consuming, and often, just plain confusing.
 
 That's why I created **Context Lens**.
 
 **The Challenge**
 
-Visualizing and understanding machine learning training data, especially for tasks like Visual Question Answering (VQA), is no small feat. Your data is rich with information, but without the right tools, it can feel like you're peering into a fog, trying to make out the shapes. The raw structure of JSONL files, while efficient for machines, is anything but user-friendly for the humans trying to build, refine, and train models on that data.
+Visualizing and understanding ML training data, especially for tasks like Visual Question Answering (VQA), is no small feat. Your data is rich with information, but without the right tools, it can feel like you're peering into a fog, trying to make out the shapes. The raw structure of JSONL files, while efficient for machines, is anything but user-friendly for the humans trying to build, refine, and train models on that data.
 
 **The Solution**
 
@@ -26,8 +26,13 @@ I built **Context Lens** because I was tired of the guesswork. Tired of the endl
 
 **Context Lens** is my answer to that challenge. It’s more than just a utility; it’s a way of working with data that puts you in control, giving you the power to see, understand, and act on the information that matters most.
 
+# Usage
+
+Add the data as a `.jsonl` file in the assets directory
+
 ```
 yarn install
+
 yarn run dev
 ```
 
