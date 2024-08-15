@@ -27,8 +27,8 @@ I built **Context Lens** because I was tired of the guesswork. Tired of the endl
 **Context Lens** is my answer to that challenge. It’s more than just a utility; it’s a way of working with data that puts you in control, giving you the power to see, understand, and act on the information that matters most.
 
 ```
-npm install
-npm run dev
+yarn install
+yarn run dev
 ```
 
 ```
